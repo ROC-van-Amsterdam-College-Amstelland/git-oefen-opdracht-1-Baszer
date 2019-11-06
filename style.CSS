@@ -129,3 +129,22 @@ body
   width: 50%;
   float: right;
 }
+
+.LikeButton {
+  font-size: 150px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.LikeButton:hover {
+  color: darkblue;
+}
+
+main{
+  height:80vh;
+
+}
+
+#Datum{
+ color: white;
+}
